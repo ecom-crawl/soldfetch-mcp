@@ -1,8 +1,8 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
-  "name": "com.soldfetch/api",
+  "name": "io.github.ricciflow-api/soldfetch",
   "title": "SoldFetch",
-  "description": "eBay sold and active listing search, category search, and item details with explicit data-quality metadata.",
+  "description": "Search eBay sold and active listings, browse categories, and retrieve item details.",
   "version": "1.0.0",
   "remotes": [
     {
