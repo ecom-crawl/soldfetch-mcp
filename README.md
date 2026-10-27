@@ -8,7 +8,7 @@ Connect AI agents to eBay sold listings, active listings, category search, and i
 https://soldfetch.com/api/mcp
 ```
 
-This repository follows Glade MCP's metadata and connection-example structure. It contains public server metadata and checks, not the hosted service implementation. Publishing this repository does not by itself register the server in an MCP registry.
+This repository contains public server metadata and checks, not the hosted service implementation. Publishing this repository does not by itself register the server in an MCP registry.
 
 ## Connect
 
